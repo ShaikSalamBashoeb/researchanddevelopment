@@ -1,0 +1,14 @@
+http://localhost:8080/RnDProject/login.jsp
+
+create database rnddb;
+
+use rnddb;
+
+CREATE TABLE ps_person (
+emplid INT NOT NULL,
+username VARCHAR(30) NOT NULL,
+password VARCHAR(20) NOT NULL,
+PRIMARY KEY (emplid)
+);
+
+INSERT INTO ps_person values(550550, 'salam', 'salam');
