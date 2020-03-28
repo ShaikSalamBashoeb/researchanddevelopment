@@ -1,0 +1,3 @@
+#Fri Jan 16 15:23:31 GMT 2015
+task-tag-projects-already-scanned=1FirstHibernateProject,2IncludeAddressObjToUserClass,3IncludeMultipleAddressObjToUserClass,4CollectionOfAddressObjToUserClass,5AddPrimayKeyColToCollectionOfAddressTable,6LazyEagerAndProxy,10CascadeTypes,11CrudOperations,7OneToOneMapping,8OneToManyMapping,9ManyToManyMapping,12HQL,13NamedQuery,14Criteria,15Projection,16CacheFirstLevel,17CacheSecondLevel,18QueryCache
+eclipse.preferences.version=1

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.eoj.model.Address.listOfUsers&apos; in &apos;com.eoj.model.Address&apos;&#x0D;&#x0A;- Original project: &apos;9ManyToManyMapping&apos;&#x0D;&#x0A;- Original element: &apos;com.eoj.model.Address.listOfUsers&apos;&#x0D;&#x0A;- Getter method name: &apos;getListOfUsers&apos;&#x0D;&#x0A;- Setter method name: &apos;setListOfUsers&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;listOfUsers&apos;" flags="589830" getter="getListOfUsers" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;com.eoj.model{Address.java[Address^listOfUsers" insertion="5" setter="setListOfUsers" stamp="1418462908072" version="1.0" visibility="1"/>
+</session>

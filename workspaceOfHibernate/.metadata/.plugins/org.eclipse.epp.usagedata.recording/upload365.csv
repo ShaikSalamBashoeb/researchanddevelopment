@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui.workbench.texteditor,3.4.0.v20080603-2000,org.eclipse.ui.edit.text.delete.line,1421442638570
+executed,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.file.save,1421442639669
+no handler,command,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui.edit.text.java.organize.imports,1421442640314
+executed,command,org.eclipse.ui.workbench.texteditor,3.4.0.v20080603-2000,org.eclipse.ui.edit.text.delete.line,1421442643947
+executed,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.file.save,1421442644771
+activated,view,org.eclipse.ui.navigator.resources,3.3.100.I20080606-1300,org.eclipse.ui.navigator.ProjectExplorer,1421442651148
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1421442656240
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1421442874342
+activated,editor,org.eclipse.wst.xml.ui,1.0.400.v200806051910,org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart,1421442875563
+activated,editor,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui.CompilationUnitEditor,1421442879529
+executed,command,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui.edit.text.java.organize.imports,1421442881993
+executed,command,org.eclipse.ui.workbench.texteditor,3.4.0.v20080603-2000,org.eclipse.ui.edit.text.delete.line,1421442883414
+executed,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.file.save,1421442885262
+executed,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.file.save,1421442898819
+activated,view,org.eclipse.ui.navigator.resources,3.3.100.I20080606-1300,org.eclipse.ui.navigator.ProjectExplorer,1421442921567
+executed,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.edit.copy,1421442923390
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1421442924483
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1421444096932
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1421444098785
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1421444099431
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1421444099444
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1421444102245
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1421444102418
+activated,view,org.eclipse.ui.console,3.3.0.v20080529-1300,org.eclipse.ui.console.ConsoleView,1421444102451
+activated,view,org.eclipse.ui.navigator.resources,3.3.100.I20080606-1300,org.eclipse.ui.navigator.ProjectExplorer,1421444105361

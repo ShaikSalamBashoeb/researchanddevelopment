@@ -1,0 +1,17 @@
+import java.sql.CallableStatement;
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+
+public class TestProcedure {
+
+	public static void main(String[] args) {
+		Class.forName("");
+		Connection con = DriverManager.getConnection("", "", "");
+		CallableStatement cstmt = con.prepareCall("");
+		cstmt.execute();
+		cstmt.getString("");
+		cstmt.close();
+		con.close();
+	}
+}

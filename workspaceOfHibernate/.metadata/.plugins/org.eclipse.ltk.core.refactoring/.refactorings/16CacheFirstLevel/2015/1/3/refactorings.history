@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 1 elements(s) to &apos;17CacheSecondLevel/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;16CacheFirstLevel&apos;&#x0D;&#x0A;- Destination element: &apos;17CacheSecondLevel/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;TwoSameQueriesInDifferentSessionTest.java&apos;" description="Copy compilation unit" destination="=17CacheSecondLevel/src&lt;" element1="/src&lt;{TwoSameQueriesInDifferentSessionTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1421338261813" units="1" version="1.0"/>
+</session>
