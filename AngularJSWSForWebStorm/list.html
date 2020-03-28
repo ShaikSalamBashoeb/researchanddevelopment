@@ -1,0 +1,15 @@
+<input type="text" placeholder="Leave a messageeee" ng-model="playerInfo.min" id = "msgId">
+<div>Hello {{ playerInfo.min || "World" }}</div>
+<div ng-bind="playerInfo.min"></div>
+
+<input type="text" placeholder="Player Name" ng-model="newPlayer.name">
+<input type="text" placeholder="Player Address" ng-model="newPlayer.address">
+<input type="text" placeholder="Player Price" ng-model="newPlayer.price">
+
+<input type="button" ng-click="addNewPlayer(newPlayer)" value="Add New Player"/>
+
+<div class="well" ng-repeat="player in players | playersFilter:playerInfo">
+    <h3>Name : {{ player.name }}</h3>
+    <p><strong>Address : {{ player.address }}</strong></h2>
+    <p><strong>Price : {{ player.price | currency}}</strong></h2>
+</div>

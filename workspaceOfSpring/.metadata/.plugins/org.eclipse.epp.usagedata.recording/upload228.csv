@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.mylyn.tasks.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.tasks.ui,1413032562679
+started,bundle,org.eclipse.mylyn.team.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.team.ui,1413032562679
+started,bundle,org.eclipse.pde.ui,3.4.0.v20080530,org.eclipse.pde.ui,1413032562835
+started,bundle,org.eclipse.team.cvs.core,3.3.100.I20080605,org.eclipse.team.cvs.core,1413032562835
+started,bundle,org.eclipse.team.cvs.ui,3.3.100.I20080604,org.eclipse.team.cvs.ui,1413032562928
+started,bundle,org.eclipse.ui.views.log,1.0.0.v20080522-2200,org.eclipse.ui.views.log,1413032562928
+started,bundle,org.eclipse.wst.common.frameworks,1.1.200.v200805140020,org.eclipse.wst.common.frameworks,1413032562928
+started,bundle,org.eclipse.wst.common.project.facet.core,1.3.0.v200805140020,org.eclipse.wst.common.project.facet.core,1413032562928
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.0.v200806031937,org.eclipse.wst.ws.service.policy.ui,1413032562928
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032565752
+started,bundle,org.eclipse.jdt.apt.core,3.3.100.v20080513-1235,org.eclipse.jdt.apt.core,1413032565814
+started,bundle,org.eclipse.core.variables,3.2.100.v20080529-1300,org.eclipse.core.variables,1413032566080
+started,bundle,org.eclipse.compare,3.4.0.I20080604,org.eclipse.compare,1413032590699
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032595908
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032598233
+no handler,command,org.eclipse.jdt.debug.ui,,org.eclipse.jdt.debug.ui.localJavaShortcut.run,1413032598248
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032604660
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032605534
+no handler,command,org.eclipse.jdt.debug.ui,,org.eclipse.jdt.debug.ui.localJavaShortcut.run,1413032605534
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032607936
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032608654
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032610853
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032611352
+no handler,command,org.eclipse.jdt.debug.ui,,org.eclipse.jdt.debug.ui.localJavaShortcut.run,1413032611352
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032616454

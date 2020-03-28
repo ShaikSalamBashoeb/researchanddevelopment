@@ -1,0 +1,16 @@
+package com.spring;
+
+
+public class Circle {
+
+	
+	public void draw() {
+		System.out.println("Circle.draw()");
+	}
+	
+	public void draw(int i) {
+		System.out.println("Circle.draw()");
+	}
+	
+
+}

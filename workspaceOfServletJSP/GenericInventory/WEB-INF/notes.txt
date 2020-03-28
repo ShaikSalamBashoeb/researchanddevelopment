@@ -1,0 +1,41 @@
+mysql password is : root
+DB name: inventorydb
+
+create database inventorydb;
+use inventorydb;
+
+CREATE TABLE items (
+
+name VARCHAR(30) NOT NULL,
+unit VARCHAR(10) NOT NULL,
+unitquantity INT NOT NULL,
+priceperunit DEC(10,2) NOT NULL,
+totalprice DEC(10,2) NOT NULL,
+createddate DATETIME NOT NULL
+
+);
+
+CREATE TABLE options (
+
+name VARCHAR(30) NOT NULL,
+unit VARCHAR(10) NOT NULL,
+unitquantity INT NOT NULL,
+priceperunit DEC(10,2) NOT NULL,
+totalprice DEC(10,2) NOT NULL,
+createddate DATETIME NOT NULL
+
+);
+
+show grants for 'salam'@'localhost';
+
+CREATE USER 'salam'@'localhost' IDENTIFIED BY 'saleem';
+
+GRANT ALL PRIVILEGES ON *.* TO 'salam'@'localhost' WITH GRANT OPTION;
+Note: there is problem with mysql which doesn't identify the privileges got changed, so need to go to my computer-->manage-->services and stop and start 'MySQL' service.
+
+/*CREATE USER 'salam'@'%' IDENTIFIED BY 'saleem';
+
+GRANT ALL PRIVILEGES ON *.* TO 'salam'@'%' WITH GRANT OPTION;*/
+
+INSERT INTO items (name, price, unit) VALUES ('Aata', 28, 'kg');
+

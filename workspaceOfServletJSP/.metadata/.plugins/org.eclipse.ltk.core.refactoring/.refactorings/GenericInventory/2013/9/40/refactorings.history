@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;GenericInventory/web&apos; to &apos;WEB-INF&apos;" description="Rename resource &apos;web&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="web" name="WEB-INF" stamp="1380460229743" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;GenericInventory/WEB-INF/WEB-INF&apos; to &apos;classes&apos;" description="Rename resource &apos;WEB-INF&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WEB-INF/WEB-INF" name="classes" stamp="1380460237304" updateReferences="true"/>
+</session>

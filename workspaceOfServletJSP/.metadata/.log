@@ -1,0 +1,289 @@
+!SESSION 2015-01-16 22:04:12.579 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+This is a continuation of log file D:\workspaceOfServletJSP\.metadata\.bak_0.log
+Created Time: 2015-01-16 22:04:23.868
+!SESSION 2015-01-16 22:04:12.579 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2015-01-16 22:04:23.869
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:04:23.869
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:04:23.869
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:04:23.869
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:04:23.870
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:04:23.870
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:04:23.870
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:04:23.870
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:04:23.870
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:04:23.870
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:04:23.870
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SESSION 2015-01-25 11:22:29.554 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2015-01-25 11:22:40.807
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-25 11:22:40.807
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-25 11:22:40.807
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-25 11:22:40.807
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-25 11:22:40.807
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-25 11:22:40.807
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-25 11:22:40.807
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-25 11:22:40.807
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-25 11:22:40.807
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-25 11:22:40.807
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-25 11:22:40.808
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SESSION 2015-01-26 07:24:48.568 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2015-01-26 07:24:55.910
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-26 07:24:55.910
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-26 07:24:55.910
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-26 07:24:55.910
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-26 07:24:55.910
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-26 07:24:55.911
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-26 07:24:55.911
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-26 07:24:55.911
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-26 07:24:55.911
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-26 07:24:55.911
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-26 07:24:55.911
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2015-01-26 07:27:18.049
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jst.jsf.validation.internal.XMLViewDefnValidator.createValidationContext(XMLViewDefnValidator.java:192)
+	at org.eclipse.jst.jsf.validation.internal.XMLViewDefnValidator.validateView(XMLViewDefnValidator.java:158)
+	at org.eclipse.jst.jsf.ui.internal.validation.JSFValidator.validate(JSFValidator.java:104)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.validate(ReconcileStepForValidator.java:340)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.reconcileModel(ReconcileStepForValidator.java:247)
+	at org.eclipse.jface.text.reconciler.AbstractReconcileStep.reconcile(AbstractReconcileStep.java:96)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ValidatorStrategy.reconcile(ValidatorStrategy.java:229)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DocumentRegionProcessor.process(DocumentRegionProcessor.java:175)
+	at org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor.process(StructuredRegionProcessor.java:252)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DirtyRegionProcessor.run(DirtyRegionProcessor.java:638)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.wst.jsdt.web.core 4 4 2015-01-26 07:44:32.806
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.jsdt.web.ui.views.contentoutline.JFaceNodeAdapterForJs.getTranslation(JFaceNodeAdapterForJs.java:324)
+	at org.eclipse.wst.jsdt.web.ui.views.contentoutline.JFaceNodeAdapterForJs.getLazyCu(JFaceNodeAdapterForJs.java:302)
+	at org.eclipse.wst.jsdt.web.ui.views.contentoutline.JFaceNodeAdapterForJs.getJSElementsFromNode(JFaceNodeAdapterForJs.java:218)
+	at org.eclipse.wst.jsdt.web.ui.views.contentoutline.JFaceNodeAdapterForJs.hasChildren(JFaceNodeAdapterForJs.java:351)
+	at org.eclipse.wst.xml.ui.internal.contentoutline.JFaceNodeContentProvider.hasChildren(JFaceNodeContentProvider.java:100)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2076)
+	at org.eclipse.jface.viewers.TreeViewer.isExpandable(TreeViewer.java:582)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2102)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2536)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1856)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:711)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1863)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:711)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1863)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:711)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1863)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:711)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1863)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:711)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1831)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1787)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1773)
+	at org.eclipse.jface.viewers.StructuredViewer$7.run(StructuredViewer.java:1430)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1365)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:397)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1328)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1428)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:537)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1387)
+	at org.eclipse.jface.viewers.ContentViewer.setLabelProvider(ContentViewer.java:282)
+	at org.eclipse.jface.viewers.StructuredViewer.setLabelProvider(StructuredViewer.java:2089)
+	at org.eclipse.jface.viewers.ColumnViewer.setLabelProvider(ColumnViewer.java:365)
+	at org.eclipse.wst.sse.ui.internal.contentoutline.ConfigurableContentOutlinePage.setConfiguration(ConfigurableContentOutlinePage.java:563)
+	at org.eclipse.wst.sse.ui.StructuredTextEditor.update(StructuredTextEditor.java:3038)
+	at org.eclipse.wst.sse.ui.StructuredTextEditor.setModel(StructuredTextEditor.java:2977)
+	at org.eclipse.wst.sse.ui.StructuredTextEditor.doSetInput(StructuredTextEditor.java:1983)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInputWithNotify(AbstractTextEditor.java:4054)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInput(AbstractTextEditor.java:4076)
+	at org.eclipse.search.internal.ui.text.EditorOpener.showWithReuse(EditorOpener.java:106)
+	at org.eclipse.search.internal.ui.text.EditorOpener.openAndSelect(EditorOpener.java:58)
+	at org.eclipse.search.internal.ui.text.FileSearchPage.showMatch(FileSearchPage.java:174)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage$7.run(AbstractTextSearchViewPage.java:871)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage.showMatch(AbstractTextSearchViewPage.java:874)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage.showCurrentMatch(AbstractTextSearchViewPage.java:939)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage.gotoNextMatch(AbstractTextSearchViewPage.java:904)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage.handleOpen(AbstractTextSearchViewPage.java:1374)
+	at org.eclipse.search.internal.ui.text.FileSearchPage.handleOpen(FileSearchPage.java:194)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage$5.open(AbstractTextSearchViewPage.java:691)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:820)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.core.runtime.Platform.run(Platform.java:880)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:48)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:818)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1079)
+	at org.eclipse.jface.viewers.StructuredViewer$6.handleOpen(StructuredViewer.java:1183)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:263)
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:257)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:297)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3823)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3422)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2382)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2346)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2198)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:493)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:288)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:488)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:193)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:549)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:504)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1236)
+
+!ENTRY org.eclipse.search 4 2 2015-01-26 07:44:32.808
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.search".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.jsdt.web.ui.views.contentoutline.JFaceNodeAdapterForJs.getLazyCu(JFaceNodeAdapterForJs.java:302)
+	at org.eclipse.wst.jsdt.web.ui.views.contentoutline.JFaceNodeAdapterForJs.getJSElementsFromNode(JFaceNodeAdapterForJs.java:218)
+	at org.eclipse.wst.jsdt.web.ui.views.contentoutline.JFaceNodeAdapterForJs.hasChildren(JFaceNodeAdapterForJs.java:351)
+	at org.eclipse.wst.xml.ui.internal.contentoutline.JFaceNodeContentProvider.hasChildren(JFaceNodeContentProvider.java:100)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2076)
+	at org.eclipse.jface.viewers.TreeViewer.isExpandable(TreeViewer.java:582)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2102)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updateChildren(AbstractTreeViewer.java:2536)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1856)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:711)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1863)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:711)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1863)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:711)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1863)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:711)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefreshStruct(AbstractTreeViewer.java:1863)
+	at org.eclipse.jface.viewers.TreeViewer.internalRefreshStruct(TreeViewer.java:711)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1831)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1787)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRefresh(AbstractTreeViewer.java:1773)
+	at org.eclipse.jface.viewers.StructuredViewer$7.run(StructuredViewer.java:1430)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1365)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:397)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1328)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1428)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:537)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1387)
+	at org.eclipse.jface.viewers.ContentViewer.setLabelProvider(ContentViewer.java:282)
+	at org.eclipse.jface.viewers.StructuredViewer.setLabelProvider(StructuredViewer.java:2089)
+	at org.eclipse.jface.viewers.ColumnViewer.setLabelProvider(ColumnViewer.java:365)
+	at org.eclipse.wst.sse.ui.internal.contentoutline.ConfigurableContentOutlinePage.setConfiguration(ConfigurableContentOutlinePage.java:563)
+	at org.eclipse.wst.sse.ui.StructuredTextEditor.update(StructuredTextEditor.java:3038)
+	at org.eclipse.wst.sse.ui.StructuredTextEditor.setModel(StructuredTextEditor.java:2977)
+	at org.eclipse.wst.sse.ui.StructuredTextEditor.doSetInput(StructuredTextEditor.java:1983)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInputWithNotify(AbstractTextEditor.java:4054)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInput(AbstractTextEditor.java:4076)
+	at org.eclipse.search.internal.ui.text.EditorOpener.showWithReuse(EditorOpener.java:106)
+	at org.eclipse.search.internal.ui.text.EditorOpener.openAndSelect(EditorOpener.java:58)
+	at org.eclipse.search.internal.ui.text.FileSearchPage.showMatch(FileSearchPage.java:174)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage$7.run(AbstractTextSearchViewPage.java:871)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage.showMatch(AbstractTextSearchViewPage.java:874)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage.showCurrentMatch(AbstractTextSearchViewPage.java:939)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage.gotoNextMatch(AbstractTextSearchViewPage.java:904)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage.handleOpen(AbstractTextSearchViewPage.java:1374)
+	at org.eclipse.search.internal.ui.text.FileSearchPage.handleOpen(FileSearchPage.java:194)
+	at org.eclipse.search.ui.text.AbstractTextSearchViewPage$5.open(AbstractTextSearchViewPage.java:691)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:820)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.core.runtime.Platform.run(Platform.java:880)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:48)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:818)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1079)
+	at org.eclipse.jface.viewers.StructuredViewer$6.handleOpen(StructuredViewer.java:1183)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:263)
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:257)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:297)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3823)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3422)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2382)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2346)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2198)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:493)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:288)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:488)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:193)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:549)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:504)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1236)

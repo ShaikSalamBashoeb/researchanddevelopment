@@ -1,0 +1,10 @@
+<table ng-controller="ContactListController">
+    <tr>
+        <td>Name</td>
+        <td>Contact Number</td>
+    </tr>
+    <tr ng-repeat="contact in contacts">
+        <td><a href="#/editContact/{{contact.name}}/{{contact.contactNumber}}"> {{contact.name}}</a></td>
+        <td>{{contact.contactNumber}}</td>
+    </tr>
+</table>

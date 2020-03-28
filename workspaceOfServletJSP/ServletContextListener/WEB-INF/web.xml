@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+	version="2.4">
+	<servlet>
+		<servlet-name>Test ContextListener</servlet-name>
+		<servlet-class>com.eoj.web.ServletContextListenerTest
+		</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Test ContextListener</servlet-name>
+		<url-pattern>/TestContextListener.do</url-pattern>
+	</servlet-mapping>
+	
+	<context-param>
+		<param-name>dogName</param-name>
+		<param-value>Sheru</param-value>
+	</context-param>
+	
+	<listener>
+		<listener-class>com.eoj.web.ServletContextListenerClass</listener-class>
+	</listener>
+</web-app>

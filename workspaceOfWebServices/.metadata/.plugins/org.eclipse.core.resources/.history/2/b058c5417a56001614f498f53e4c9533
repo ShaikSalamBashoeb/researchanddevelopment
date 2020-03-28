@@ -1,0 +1,10 @@
+package com.adp;
+
+public class ClientTest {
+
+	public static void main(String[] args) {
+		EmployeeServiceService es = new EmployeeServiceService();
+		EmployeeService employeeService = es.getEmployeeServicePort();
+		System.out.println(employeeService.getEmployeeName(1001));
+	}
+}

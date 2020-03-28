@@ -1,0 +1,70 @@
+package com.spring;
+
+import java.util.List;
+
+import org.hibernate.Query;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate3.HibernateTemplate;
+import org.springframework.stereotype.Repository;
+
+import com.spring.model.Person;
+
+@Repository
+public class HibernateDaoImpl {
+	
+	@Autowired
+	private HibernateTemplate template;  
+
+	public Long getCircleSize() {
+		String hql = "select count(*) from Person";
+		Query q = template.getSessionFactory().openSession().createQuery(hql);
+		return (Long) q.uniqueResult();
+	}
+
+	public void setTemplate(HibernateTemplate template) {
+		this.template = template;
+	}
+
+	public HibernateTemplate getTemplate() {
+		return template;
+	}
+	
+	public List<Person> getCircleList() {
+		List<Person> list = null;
+			String sql = "select name from Person";
+//			template.ex
+//			list =  jdbcTemplate.query(sql, new CircleMapper());
+			
+		return list;
+		
+	}
+	
+	public void insertCircle(Person c) {
+		/*String sql = "insert into person (person_id, name) values (?, ?)";
+		int count = jdbcTemplate.update(sql, new Object[] { c.getId(),
+				c.getName() });*/
+		//Person c1 = (Person)
+		template.save(c);
+//		System.out.println("Update Count is: " + count);
+	}
+	/*
+	public void insertCircleWithNamedPrameter(Circle c) {
+		String sql = "insert into person (person_id, name) values (:id, :name)";
+		SqlParameterSource namedPar = new MapSqlParameterSource("id", c.getId())
+										.addValue("name", c.getName());
+		int count = namedParameterJdbcTemplate.update(sql, namedPar);
+		System.out.println("Update Count is: " + count);
+	}*/
+
+
+	/*@Autowired
+	public void setSessionFactory(SessionFactory sessionFactory) {
+		this.sessionFactory = sessionFactory;
+	}
+
+	public SessionFactory getSessionFactory() {
+		return sessionFactory;
+	}
+*/
+	
+}

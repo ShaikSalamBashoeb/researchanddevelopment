@@ -1,0 +1,57 @@
+package com.spring;
+
+import java.sql.Connection;
+import java.sql.SQLException;
+
+import javax.sql.DataSource;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+
+public class JdbcDaoImpl {
+	
+	@Autowired
+	private DataSource dataSource;
+	private JdbcTemplate jdbcTemplate = null; 
+
+	public int getCircle() {
+		Connection con = null;
+		try {
+			
+			con = dataSource.getConnection();
+			String sql = "select count(*) from person";
+			return jdbcTemplate.queryForInt(sql);
+			
+			
+		} catch (Exception e) {
+			System.out.println(e);
+		} finally {
+			if (null != con) {
+				try {
+					con.close();
+				} catch (SQLException e) {
+					e.printStackTrace();
+				}
+			}
+		}
+		return 0;
+		
+	}
+
+	public void setDataSource(DataSource dataSource) {
+		jdbcTemplate = new JdbcTemplate(dataSource);
+		this.dataSource = dataSource;
+	}
+
+	public DataSource getDataSource() {
+		return dataSource;
+	}
+
+	public void setJdbcTemplate(JdbcTemplate jdbcTemplate) {
+		this.jdbcTemplate = jdbcTemplate;
+	}
+
+	public JdbcTemplate getJdbcTemplate() {
+		return jdbcTemplate;
+	}
+}

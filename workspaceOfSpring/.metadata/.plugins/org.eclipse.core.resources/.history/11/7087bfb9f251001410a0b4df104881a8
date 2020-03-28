@@ -1,0 +1,43 @@
+package com.spring;
+
+import java.sql.Connection;
+import java.sql.SQLException;
+
+import javax.sql.DataSource;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class JdbcDaoImpl {
+	
+	@Autowired
+	private DataSource dataSource;
+
+	public int getCircle() {
+		Connection con = null;
+		try {
+			
+			con = dataSource.getConnection();
+			
+		} catch (Exception e) {
+			System.out.println(e);
+		} finally {
+			if (null != con) {
+				try {
+					con.close();
+				} catch (SQLException e) {
+					e.printStackTrace();
+				}
+			}
+		}
+		return 1;
+		
+	}
+
+	public void setDataSource(DataSource dataSource) {
+		this.dataSource = dataSource;
+	}
+
+	public DataSource getDataSource() {
+		return dataSource;
+	}
+}

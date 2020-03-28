@@ -1,0 +1,16 @@
+import net.webservicex.GeoIPService;
+import net.webservicex.GeoIPServiceSoap;
+
+
+
+public class Test {
+
+	public static void main(String[] args) {
+
+		GeoIPService g = new GeoIPService();
+		GeoIPServiceSoap geoIPServiceSoap = g.getGeoIPServiceSoap();
+		String ipAddress = "10.0.0.11";
+		geoIPServiceSoap.getGeoIP(ipAddress);
+	}
+
+}

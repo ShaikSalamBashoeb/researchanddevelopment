@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032616984
+no handler,command,org.eclipse.jdt.debug.ui,,org.eclipse.jdt.debug.ui.localJavaShortcut.run,1413032616984
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032622663
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1413032625330
+opened,editor,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui.CompilationUnitEditor,1413032625502
+activated,editor,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui.CompilationUnitEditor,1413032625627
+started,bundle,org.eclipse.jdt.junit,3.4.0.v20080603-2000,org.eclipse.jdt.junit,1413032625689
+executed,command,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui.edit.text.java.add.block.comment,1413032635018
+executed,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.file.save,1413032636125
+activated,editor,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui.CompilationUnitEditor,1413032642272
+started,bundle,org.eclipse.debug.ui,3.4.0.v20080529-1300,org.eclipse.debug.ui,1413032643707
+started,bundle,org.eclipse.wst.server.core,1.1.0.v20080530,org.eclipse.wst.server.core,1413032644019
+started,bundle,org.eclipse.wst.server.ui,1.1.0.v20080515,org.eclipse.wst.server.ui,1413032644035
+started,bundle,org.eclipse.jdt.debug,3.4.0.v20080604,org.eclipse.jdt.debug,1413032644128
+started,bundle,org.eclipse.jdt.debug.ui,3.3.0.v20080603,org.eclipse.jdt.debug.ui,1413032644503
+opened,editor,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui.CompilationUnitEditor,1413032963037
+activated,editor,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui.CompilationUnitEditor,1413032963115
+started,bundle,org.eclipse.jst.server.ui,1.0.303.v200805140145,org.eclipse.jst.server.ui,1413032974394
+executed,command,org.eclipse.ui.workbench.texteditor,3.4.0.v20080603-2000,org.eclipse.ui.edit.text.select.wordPrevious,1413032974628
+executed,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.file.save,1413032979682
+started,bundle,org.eclipse.wst.common.emf,1.1.200.v200805140020,org.eclipse.wst.common.emf,1413032979979
+started,bundle,org.eclipse.jst.j2ee.core,1.1.200.v200806052000,org.eclipse.jst.j2ee.core,1413032979979
+started,bundle,org.eclipse.jem,2.0.200.v200806051600,org.eclipse.jem,1413032980010
+started,bundle,org.eclipse.emf.ecore.xmi,2.4.0.v200806091234,org.eclipse.emf.ecore.xmi,1413032980025
+started,bundle,org.eclipse.jst.jee,1.0.100.v200805140020,org.eclipse.jst.jee,1413032980197

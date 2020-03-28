@@ -1,0 +1,50 @@
+<html>
+<body>
+
+    <script src="//ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo/dojo.xd.js"></script>
+
+<form method="get" action="Greet.do">
+
+	<input type="text" name="userName" value="Salam"></input>
+	
+<input type="button" value="Submit" onClick="sendName();"/>
+
+
+<script type="text/javascript">
+
+function sendName() {
+
+	var o = {
+				'userName' : dojo.byId('userName').value
+			};
+	
+	dojo.xhrGet(
+			{
+
+			url: "http://localhost:8080/RequestResponseProject/GetReqResServlet.do",
+
+			content : o,
+
+			handleAs : "text",
+
+			load : function(response, ioArgs) {
+
+			console.log('Load Method',response);
+
+			return response;
+			},
+
+			error: function (response, ioArgs) {
+			console.log('Error Method');
+			return response;
+			}
+
+
+			}
+			);
+}
+
+</script>
+</form>
+</body>
+</html>

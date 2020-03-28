@@ -1,0 +1,16 @@
+<!-- ng-controller="ContactListController" -->
+<table>
+    <tr>
+        <td>Name</td>
+        <td>Contact Number</td>
+    </tr>
+    <tr ng-repeat="contact in contacts">
+        <td><a href="#/rest/user/{{contact.personId}}"> {{contact.name}}</a></td>
+        <td>{{contact.contactNumber}}</td>
+    </tr>
+</table>
+<div><a href="#/rest/addUser"> Add </a> </div>
+<div ng-controller="HelloController">
+<p><input ng-model="greetings.text"></input></p>
+<p>{{greetings.text}}</p>
+</div>

@@ -1,0 +1,812 @@
+!SESSION 2014-10-04 09:14:54.147 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-04 09:15:04.256
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 09:15:04.256
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 09:15:04.256
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 09:15:04.256
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 09:15:04.256
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 09:15:04.256
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 09:15:04.256
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 09:15:04.256
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 09:15:04.256
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 09:15:04.256
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 09:15:04.256
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.jdt.core 2 0 2014-10-04 09:30:27.425
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.5.0/lib/ext/sunjce_provider.jar|com/sun/crypto/provider/SunJCE_am.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.osgi 2 1 2014-10-04 10:16:26.322
+!MESSAGE NLS unused message: pluginName in: plugin
+
+!ENTRY org.eclipse.osgi 2 1 2014-10-04 10:16:26.335
+!MESSAGE NLS unused message: pluginProvider in: plugin
+
+!ENTRY org.eclipse.osgi 2 1 2014-10-04 10:16:26.336
+!MESSAGE NLS unused message: _WARN_INVALID_JAVA_PACKAGE in: plugin
+
+!ENTRY org.eclipse.osgi 2 1 2014-10-04 10:16:26.336
+!MESSAGE NLS unused message: ExampleProjectCreationWizard.title in: plugin
+
+!ENTRY org.eclipse.osgi 2 1 2014-10-04 10:16:26.336
+!MESSAGE NLS unused message: ExampleProjectCreationWizard.op_error.title in: plugin
+
+!ENTRY org.eclipse.osgi 2 1 2014-10-04 10:16:26.337
+!MESSAGE NLS unused message: ExampleProjectCreationWizard.op_error.message in: plugin
+
+!ENTRY org.eclipse.osgi 2 1 2014-10-04 10:16:26.337
+!MESSAGE NLS unused message: ExampleProjectCreationWizard.overwritequery.title in: plugin
+
+!ENTRY org.eclipse.osgi 2 1 2014-10-04 10:16:26.337
+!MESSAGE NLS unused message: ExampleProjectCreationWizard.overwritequery.message in: plugin
+
+!ENTRY org.eclipse.osgi 2 1 2014-10-04 10:16:26.344
+!MESSAGE NLS unused message: ExampleProjectCreationOperation.op_desc in: plugin
+
+!ENTRY org.eclipse.osgi 2 1 2014-10-04 10:16:26.345
+!MESSAGE NLS unused message: ExampleProjectCreationOperation.op_desc_proj in: plugin
+
+!ENTRY org.eclipse.osgi 2 1 2014-10-04 10:16:26.346
+!MESSAGE NLS unused message: ExampleProjectCreationWizardPage.error.alreadyexists in: plugin
+!SESSION 2014-10-04 11:32:12.819 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-04 11:32:16.454
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 11:32:16.454
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 11:32:16.454
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 11:32:16.454
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 11:32:16.454
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 11:32:16.454
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 11:32:16.454
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 11:32:16.454
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 11:32:16.454
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 11:32:16.454
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 11:32:16.454
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-10-04 11:46:28.735
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-10-04 11:46:28.735
+!MESSAGE Conflict for 'org.eclipse.wst.sse.ui.format':
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@b8a39b5e,sourcePriority=1073741824)
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@429a8fde,sourcePriority=1073741824)
+!SESSION 2014-10-04 14:51:07.321 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-04 14:52:03.094
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 14:52:03.094
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 14:52:03.094
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 14:52:03.094
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 14:52:03.094
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 14:52:03.094
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 14:52:03.094
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 14:52:03.094
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 14:52:03.094
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 14:52:03.094
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-04 14:52:03.094
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-10-04 14:59:52.078
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-10-04 14:59:52.078
+!MESSAGE Conflict for 'org.eclipse.wst.sse.ui.format':
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@429a8fde,sourcePriority=1073741824)
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@d4f4315e,sourcePriority=1073741824)
+!SESSION 2014-10-05 07:51:18.593 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-05 07:51:24.773
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 07:51:24.773
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 07:51:24.773
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 07:51:24.773
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 07:51:24.773
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 07:51:24.773
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 07:51:24.773
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 07:51:24.773
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 07:51:24.773
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 07:51:24.773
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 07:51:24.773
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.jdt.core 2 0 2014-10-05 07:51:39.812
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.5.0/lib/ext/sunjce_provider.jar|com/sun/crypto/provider/SunJCE_am.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+!SESSION 2014-10-05 11:45:33.811 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-05 11:45:48.569
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 11:45:48.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 11:45:48.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 11:45:48.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 11:45:48.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 11:45:48.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 11:45:48.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 11:45:48.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 11:45:48.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 11:45:48.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-05 11:45:48.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-10-05 11:54:04.525
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-10-05 11:54:04.525
+!MESSAGE Conflict for 'org.eclipse.wst.sse.ui.format':
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@429a8fde,sourcePriority=1073741824)
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@d4f4315e,sourcePriority=1073741824)
+!SESSION 2014-10-08 16:54:37.547 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-08 16:54:47.143
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-08 16:54:47.143
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-08 16:54:47.143
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-08 16:54:47.143
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-08 16:54:47.143
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-08 16:54:47.143
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-08 16:54:47.143
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-08 16:54:47.143
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-08 16:54:47.143
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-08 16:54:47.143
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-08 16:54:47.143
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.jdt.core 2 0 2014-10-08 16:55:10.889
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.5.0/lib/ext/sunjce_provider.jar|com/sun/crypto/provider/SunJCE_am.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-10-08 16:55:41.312
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-10-08 16:55:41.312
+!MESSAGE Conflict for 'org.eclipse.wst.sse.ui.format':
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@429a8fde,sourcePriority=1073741824)
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@d4f4315e,sourcePriority=1073741824)
+!SESSION 2014-10-09 07:58:12.160 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-09 07:58:27.597
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 07:58:27.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 07:58:27.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 07:58:27.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 07:58:27.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 07:58:27.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 07:58:27.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 07:58:27.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 07:58:27.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 07:58:27.597
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 07:58:27.598
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.jdt.core 2 0 2014-10-09 07:58:53.580
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.5.0/lib/ext/sunjce_provider.jar|com/sun/crypto/provider/SunJCE_am.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-10-09 08:09:27.694
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-10-09 08:09:27.694
+!MESSAGE Conflict for 'org.eclipse.wst.sse.ui.format':
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@429a8fde,sourcePriority=1073741824)
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@d4f4315e,sourcePriority=1073741824)
+
+!ENTRY org.eclipse.ui 2 2 2014-10-09 09:32:10.699
+!MESSAGE Ignored attempt to remove a saveable when no saveables were known
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: unknown saveable: org.eclipse.ui.texteditor.AbstractTextEditor$TextEditorSavable@f3ad87 from part: org.eclipse.wst.sse.ui.StructuredTextEditor@354969
+	at org.eclipse.ui.internal.SaveablesList.logWarning(SaveablesList.java:187)
+	at org.eclipse.ui.internal.SaveablesList.removeModel(SaveablesList.java:166)
+	at org.eclipse.ui.internal.SaveablesList.removeModels(SaveablesList.java:270)
+	at org.eclipse.ui.internal.SaveablesList.handleLifecycleEvent(SaveablesList.java:240)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:3970)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:190)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1325)
+	at org.eclipse.ui.editors.text.TextEditor.doSetInput(TextEditor.java:165)
+	at org.eclipse.wst.sse.ui.StructuredTextEditor.doSetInput(StructuredTextEditor.java:1954)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInputWithNotify(AbstractTextEditor.java:4054)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInput(AbstractTextEditor.java:4076)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$7.run(AbstractTextEditor.java:480)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.execute(AbstractTextEditor.java:549)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.elementMoved(AbstractTextEditor.java:510)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider$FileBufferListener.underlyingFileMoved(TextFileDocumentProvider.java:320)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager$6.run(TextFileBufferManager.java:705)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.fireUnderlyingFileMoved(TextFileBufferManager.java:703)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.handleFileMoved(ResourceFileBuffer.java:459)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$3.execute(ResourceFileBuffer.java:162)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$SafeFileChange.run(ResourceFileBuffer.java:86)
+	at org.eclipse.ui.internal.editors.text.UISynchronizationContext.run(UISynchronizationContext.java:34)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.execute(TextFileBufferManager.java:607)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$FileSynchronizer.resourceChanged(ResourceFileBuffer.java:179)
+	at org.eclipse.core.internal.events.NotificationManager$2.run(NotificationManager.java:288)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:282)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:148)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:313)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:367)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:265)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1800)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:308)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.access$1(UIPerformChangeOperation.java:1)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation$1.run(UIPerformChangeOperation.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation$2.run(UIPerformChangeOperation.java:84)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3800)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3425)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:172)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:370)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:317)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:558)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:154)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:622)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:446)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:472)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:624)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:228)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3823)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3422)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation$1.run(RefactoringWizardOpenOperation.java:144)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:156)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RefactoringStarter.activate(RefactoringStarter.java:37)
+	at org.eclipse.jdt.internal.ui.refactoring.UserInterfaceStarter.activate(UserInterfaceStarter.java:60)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.RenameUserInterfaceStarter.activate(RenameUserInterfaceStarter.java:31)
+	at org.eclipse.jdt.ui.refactoring.RenameSupport.openDialog(RenameSupport.java:160)
+	at org.eclipse.jdt.ui.refactoring.RenameSupport.openDialog(RenameSupport.java:117)
+	at org.eclipse.jdt.internal.corext.refactoring.RefactoringExecutionStarter.startRenameRefactoring(RefactoringExecutionStarter.java:436)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RenameJavaElementAction.run(RenameJavaElementAction.java:194)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RenameJavaElementAction.run(RenameJavaElementAction.java:106)
+	at org.eclipse.jdt.ui.actions.RenameAction.run(RenameAction.java:108)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:250)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:583)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:500)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3823)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3422)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2382)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2346)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2198)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:493)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:288)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:488)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:193)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:549)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:504)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1236)
+!SESSION 2014-10-09 16:36:55.734 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-09 16:37:02.863
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 16:37:02.863
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 16:37:02.863
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 16:37:02.863
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 16:37:02.863
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 16:37:02.863
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 16:37:02.863
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 16:37:02.863
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 16:37:02.863
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 16:37:02.863
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-09 16:37:02.863
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.jdt.core 2 0 2014-10-09 16:37:15.671
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.5.0/lib/ext/sunjce_provider.jar|com/sun/crypto/provider/SunJCE_am.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+!SESSION 2014-10-11 08:11:00.444 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-11 08:11:06.606
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 08:11:06.606
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 08:11:06.606
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 08:11:06.606
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 08:11:06.606
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 08:11:06.606
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 08:11:06.606
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 08:11:06.606
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 08:11:06.606
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 08:11:06.606
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 08:11:06.606
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.jdt.core 2 0 2014-10-11 08:11:18.293
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.5.0/lib/ext/sunjce_provider.jar|com/sun/crypto/provider/SunJCE_am.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+!SESSION 2014-10-11 13:02:13.731 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-10-11 13:02:19.400
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 2 0 2014-10-11 13:02:20.726
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 13:02:20.726
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 13:02:20.726
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 13:02:20.726
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 13:02:20.726
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 13:02:20.726
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 13:02:20.726
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 13:02:20.726
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 13:02:20.726
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 13:02:20.726
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-11 13:02:20.726
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SESSION 2014-10-12 07:47:10.946 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-12 07:47:20.838
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-12 07:47:20.838
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-12 07:47:20.839
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-12 07:47:20.839
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-12 07:47:20.839
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-12 07:47:20.839
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-12 07:47:20.839
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-12 07:47:20.839
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-12 07:47:20.839
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-12 07:47:20.839
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-12 07:47:20.839
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SESSION 2014-10-14 19:59:11.336 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-10-14 19:59:18.358
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 2 0 2014-10-14 19:59:18.795
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-14 19:59:18.795
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-14 19:59:18.795
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-14 19:59:18.795
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-14 19:59:18.795
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-14 19:59:18.795
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-14 19:59:18.795
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-14 19:59:18.795
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-14 19:59:18.795
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-14 19:59:18.795
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-14 19:59:18.795
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.jdt.core 2 0 2014-10-14 19:59:26.860
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.5.0/lib/ext/sunjce_provider.jar|com/sun/crypto/provider/SunJCE_am.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+!SESSION 2014-10-16 08:59:19.954 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data D:\workspaceOfSpring
+
+!ENTRY org.eclipse.ui 2 0 2014-10-16 08:59:21.576
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 08:59:21.576
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 08:59:21.576
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 08:59:21.576
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 08:59:21.576
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 08:59:21.576
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 08:59:21.576
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 08:59:21.576
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 08:59:21.576
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 08:59:21.576
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 08:59:21.576
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-10-16 09:01:34.539
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-10-16 09:01:34.539
+!MESSAGE Conflict for 'org.eclipse.wst.sse.ui.format':
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@d4f4315e,sourcePriority=1073741824)
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@b8a39b5e,sourcePriority=1073741824)
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2014-10-16 09:01:37.066
+!MESSAGE A workspace crash was detected. The previous session did not exit normally. Not using saved taglib indexes.
+!SESSION 2014-10-16 15:09:51.869 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-16 15:10:14.079
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 15:10:14.079
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 15:10:14.079
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 15:10:14.079
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 15:10:14.079
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 15:10:14.079
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 15:10:14.079
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 15:10:14.079
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 15:10:14.079
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 15:10:14.079
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-16 15:10:14.079
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.jdt.core 2 0 2014-10-16 15:10:39.643
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.5.0/lib/ext/sunjce_provider.jar|com/sun/crypto/provider/SunJCE_am.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+!SESSION 2014-10-18 08:49:26.652 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-18 08:49:33.431
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-18 08:49:33.431
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-18 08:49:33.431
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-18 08:49:33.431
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-18 08:49:33.431
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-18 08:49:33.431
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-18 08:49:33.431
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-18 08:49:33.431
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-18 08:49:33.431
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-18 08:49:33.431
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-18 08:49:33.432
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.jdt.core 2 0 2014-10-18 08:49:44.462
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.5.0/lib/ext/sunjce_provider.jar|com/sun/crypto/provider/SunJCE_am.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-10-18 08:51:15.339
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-10-18 08:51:15.339
+!MESSAGE Conflict for 'org.eclipse.wst.sse.ui.format':
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@b8a39b5e,sourcePriority=1073741824)
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@429a8fde,sourcePriority=1073741824)
+!SESSION 2014-10-19 14:38:38.288 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-19 14:38:53.793
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-19 14:38:53.793
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-19 14:38:53.793
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-19 14:38:53.793
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-19 14:38:53.793
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-19 14:38:53.793
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-19 14:38:53.793
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-19 14:38:53.793
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-19 14:38:53.793
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-19 14:38:53.793
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-19 14:38:53.793
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SESSION 2014-10-20 17:07:17.706 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-20 17:07:52.569
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 17:07:52.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 17:07:52.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 17:07:52.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 17:07:52.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 17:07:52.569
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 17:07:52.570
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 17:07:52.570
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 17:07:52.570
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 17:07:52.570
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 17:07:52.570
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SESSION 2014-10-23 13:40:20.084 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-23 13:41:00.321
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-23 13:41:00.321
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-23 13:41:00.321
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-23 13:41:00.321
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-23 13:41:00.321
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-23 13:41:00.321
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-23 13:41:00.321
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-23 13:41:00.321
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-23 13:41:00.321
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-23 13:41:00.321
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-23 13:41:00.321
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2014-10-23 13:41:24.089
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2014-10-23 13:41:24.089
+!MESSAGE Conflict for 'org.eclipse.wst.sse.ui.format':
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@2c63552c,sourcePriority=1073741824)
+HandlerActivation(commandId=org.eclipse.wst.sse.ui.format,
+	handler=org.eclipse.wst.sse.ui.internal.handlers.FormatHandler,
+	expression=org.eclipse.core.internal.expressions.ReferenceExpression@b8a39b5e,sourcePriority=1073741824)
+!SESSION 2015-01-16 22:00:19.482 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2015-01-16 22:00:28.565
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:00:28.565
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:00:28.565
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:00:28.566
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:00:28.566
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:00:28.566
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:00:28.566
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:00:28.566
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:00:28.566
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:00:28.566
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-01-16 22:00:28.566
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'

@@ -1,0 +1,11 @@
+1413480495649	Delete element
+1413480506539	Delete elements
+1413480522776	Rename package 'com.spring.model.src.com.spring'
+1413480530347	Delete element
+1413480555053	Rename type 'JdbcDaoImpl'
+1413480754706	Copy compilation unit
+1413481260839	Encapsulate field 'sessionFactory'
+1413483590235	Encapsulate field 'person_id'
+1413488784999	Delete element
+1413488799396	Delete element
+1413488973815	Copy source folder

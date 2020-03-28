@@ -1,0 +1,12 @@
+package com.adp;
+
+import java.rmi.RemoteException;
+
+public class ClientTest {
+
+	public static void main(String[] args) throws RemoteException {
+		EmployeeServiceProxy es = new EmployeeServiceProxy();
+//		EmployeeService employeeService = es.getEmployeeName(100)
+		System.out.println(es.getEmployeeName(100));
+	}
+}

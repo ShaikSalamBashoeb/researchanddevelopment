@@ -1,0 +1,9 @@
+what,kind,bundleId,bundleVersion,description,time
+closed,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1371333560489
+stopped,bundle,org.eclipse.jst.j2ee.xdoclet.runtime,1.1.102.v200805140135,org.eclipse.jst.j2ee.xdoclet.runtime,1371333560899
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1.2.0.v200805140020,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1371333560906
+stopped,bundle,org.eclipse.jst.server.generic.jboss,1.5.205.v200805140145,org.eclipse.jst.server.generic.jboss,1371333560934
+stopped,bundle,org.eclipse.jst.server.generic.jonas,1.5.205.v200805140145,org.eclipse.jst.server.generic.jonas,1371333560955
+stopped,bundle,org.eclipse.jst.server.generic.oc4j,1.5.205.v200805140145,org.eclipse.jst.server.generic.oc4j,1371333560958
+stopped,bundle,org.eclipse.jst.server.websphere.core,1.0.301.v200805140145,org.eclipse.jst.server.websphere.core,1371333560966
+stopped,bundle,org.eclipse.jst.server.generic.ui,1.0.305.v200805140145,org.eclipse.jst.server.generic.ui,1371333560968

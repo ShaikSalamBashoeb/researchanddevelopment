@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="817"/>
+		<item key="DIALOG_HEIGHT" value="444"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_Y_ORIGIN" value="229"/>
+		<item key="DIALOG_WIDTH" value="305"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="SessionFactory"/>
+		<item key="wrap" value="false"/>
+		<item key="casesensitive" value="false"/>
+		<list key="findhistory">
+			<item value="sessionFactory"/>
+			<item value="Autowired"/>
+			<item value="publisher"/>
+			<item value="msgSource"/>
+			<item value="drawing2.point"/>
+			<item value="http://www.w3.org/2001/XMLSchema-instance"/>
+			<item value="http://www.springframework.org/schema/beans"/>
+			<item value="http://www.springframework.org/schema/context"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+</section>

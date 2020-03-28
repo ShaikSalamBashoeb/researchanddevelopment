@@ -1,0 +1,169 @@
+!SESSION 2014-10-20 18:17:35.653 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2014-10-20 18:18:04.275
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:18:04.275
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:18:04.275
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:18:04.275
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:18:04.275
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:18:04.275
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:18:04.275
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:18:04.275
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:18:04.275
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:18:04.275
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:18:04.275
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+
+!ENTRY org.eclipse.jdt.core 2 0 2014-10-20 18:18:54.450
+!MESSAGE The Java indexing could not index C:/Program Files (x86)/Java/jre1.5.0/lib/ext/sunjce_provider.jar|com/sun/crypto/provider/SunJCE_am.class. This .class file doesn't follow the class file format specification. Please report this issue against the .class file vendor
+!SESSION 2014-10-20 18:26:49.092 -----------------------------------------------
+eclipse.buildId=I20080617-2000
+java.version=1.5.0
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data D:\workspaceOfWebServices
+
+!ENTRY org.eclipse.ui 2 0 2014-10-20 18:26:50.580
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:26:50.580
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:26:50.580
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:26:50.580
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:26:50.580
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:26:50.580
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:26:50.580
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:26:50.580
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:26:50.580
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:26:50.580
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-10-20 18:26:50.580
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.tm.terminal', id='org.eclipse.tm.terminal.command1'
+!SESSION 2016-07-29 18:57:18.985 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.equinox.ds 2 0 2016-07-29 18:57:51.283
+!MESSAGE [SCR - WorkThread] Timeout occurred! Thread was blocked on processing [QueuedJob] WorkPerformer: org.eclipse.equinox.internal.ds.SCRManager@10b210b7; actionType 1
+
+!ENTRY org.eclipse.equinox.ds 2 0 2016-07-29 18:57:51.313
+!MESSAGE [SCR] Enabling components of bundle org.eclipse.ui.trace did not complete in 30000 ms 
+
+!ENTRY org.eclipse.core.runtime 4 0 2016-07-29 18:57:56.325
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; osgi.identity="org.eclipse.core.runtime"; type="osgi.bundle"; version:Version="3.10.0.v20140318-2214"; singleton:="true" [id=86] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:329)
+	at org.eclipse.osgi.container.Module.start(Module.java:389)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1562)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.osgi 2 0 2016-07-29 18:58:01.768
+!MESSAGE While loading class "org.eclipse.core.runtime.Plugin", thread "Thread[Start Level: Equinox Container: 304c422d-9055-0016-1802-a9752907e03b,5,main]" timed out waiting (5001ms) for thread "Thread[Component Resolve Thread,5,main]" to finish starting bundle "org.eclipse.core.runtime_3.10.0.v20140318-2214 [86]". To avoid deadlock, thread "Thread[Start Level: Equinox Container: 304c422d-9055-0016-1802-a9752907e03b,5,main]" is proceeding but "org.eclipse.core.runtime.Plugin" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; osgi.identity="org.eclipse.core.runtime"; type="osgi.bundle"; version:Version="3.10.0.v20140318-2214"; singleton:="true" [id=86] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:329)
+	at org.eclipse.osgi.container.Module.start(Module.java:389)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:454)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:531)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:36)
+	at org.eclipse.osgi.internal.loader.sources.MultiSourcePackage.loadClass(MultiSourcePackage.java:32)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:391)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:160)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.defineClass(ModuleClassLoader.java:272)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.defineClass(ClasspathManager.java:632)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findClassImpl(ClasspathManager.java:588)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClassImpl(ClasspathManager.java:540)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:527)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:324)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:320)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:337)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.loadBundleActivator(BundleContextImpl.java:754)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:706)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:936)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:319)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:571)
+	at org.eclipse.osgi.container.Module.start(Module.java:439)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1562)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-29 18:58:49.739
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-29 18:58:49.769
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\YOGA500'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-07-30 19:56:50.813 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-30 19:58:10.051
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-30 19:58:10.145
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\YOGA500'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

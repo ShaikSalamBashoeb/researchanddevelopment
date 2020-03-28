@@ -1,0 +1,19 @@
+package com.adp;
+
+import javax.jws.WebService;
+
+@WebService
+public class EmployeeService {
+	
+	public String getEmployeeName(int id) {
+		String name = null; 
+		if(id == 100) {
+			name = "Salam";
+		} else {
+			name = "Not Found";
+		}
+		
+		return name;
+	}
+
+}

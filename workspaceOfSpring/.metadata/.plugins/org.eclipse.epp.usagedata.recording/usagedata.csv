@@ -1,0 +1,6 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.jdt.junit,3.4.0.v20080603-2000,org.eclipse.jdt.junit,1421445954788
+stopped,bundle,org.eclipse.jem.ui,2.0.100.v200806051600,org.eclipse.jem.ui,1421445954791
+stopped,bundle,org.eclipse.jst.server.preview.adapter,1.0.100.v200805140145,org.eclipse.jst.server.preview.adapter,1421445954793
+stopped,bundle,com.sysdeo.eclipse.tomcat,3.2.1,com.sysdeo.eclipse.tomcat,1421445954813
+stopped,bundle,org.eclipse.jdt.debug.ui,3.3.0.v20080603,org.eclipse.jdt.debug.ui,1421445954813

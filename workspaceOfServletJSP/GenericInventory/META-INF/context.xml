@@ -1,0 +1,9 @@
+<Context>
+ 
+  <Resource name="jdbc/inventorydb" auth="Container" type="javax.sql.DataSource"
+               maxActive="50" maxIdle="30" maxWait="10000"
+               username="salam" password="saleem" 
+               driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:mysql://localhost:3306/inventorydb"/>
+ 
+</Context>

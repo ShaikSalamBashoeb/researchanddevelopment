@@ -1,0 +1,11 @@
+package net.webservicex;
+
+public class Test {
+
+	public static void main(String[] args) {
+
+		GeoIPService g = new GeoIPService();
+		g.get
+	}
+
+}

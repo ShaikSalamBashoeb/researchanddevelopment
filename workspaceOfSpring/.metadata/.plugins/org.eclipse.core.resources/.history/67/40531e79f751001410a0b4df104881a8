@@ -1,0 +1,14 @@
+package com.spring;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class ThirteenthTest {
+
+	public static void main(String[] args) {
+		ApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");
+		JdbcDaoImpl j = (JdbcDaoImpl)context.getBean("jdbcDaoImpl");
+		System.out.println(j.getCircle());
+	}
+	
+}
